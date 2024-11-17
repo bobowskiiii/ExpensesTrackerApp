@@ -1,0 +1,22 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# .NET build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+package.lock.json
