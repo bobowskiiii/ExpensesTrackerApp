@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\package-lock.json",
+      "PackagePath": "staticwebassets\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\page2.html",
+      "PackagePath": "staticwebassets\\page2.html"
+    },
+    {
+      "Id": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ExpenseTrackerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ExpenseTrackerAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ExpenseTrackerAPI.props",
+      "PackagePath": "build\\ExpenseTrackerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ExpenseTrackerAPI.props",
+      "PackagePath": "buildMultiTargeting\\ExpenseTrackerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ExpenseTrackerAPI.props",
+      "PackagePath": "buildTransitive\\ExpenseTrackerAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Tracker</title>
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="script.js" defer></script>
+</head>
+<body style="min-height: 100vh; background-color: #f0f2f5; font-family: Arial, sans-serif;">
+
+    <div class="container d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+        <div class="w-100" style="max-width: 700px;">
+            <h1 class="text-center"><i class="fas fa-wallet"></i> Expense Tracker</h1>
+
+            <form id="expense-form" class="bg-white p-4 rounded shadow-sm">
+                <div class="form-group">
+                    <label for="description">Opis wydatku:</label>
+                    <input type="text" class="form-control" id="description" name="description" placeholder="Np. Kawa, Bilet na autobus" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="amount">Kwota (PLN):</label>
+                    <input type="number" class="form-control" id="amount" name="amount" placeholder="Np. 50" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="date">Data:</label>
+                    <input type="date" class="form-control" id="date" name="date" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="category">Kategoria:</label>
+                    <select class="form-control" id="category" name="category" required>
+                        <option value="jedzenie">Jedzenie</option>
+                        <option value="transport">Transport</option>
+                        <option value="rozrywka">Rozrywka</option>
+                        <option value="inne">Inne</option>
+                    </select>
+                </div>
+
+                <button type="submit" id="submit" class="btn btn-primary w-100"><i class="fas fa-plus"></i> Dodaj wydatek</button>
+            </form>
+
+            <h2 class="mt-5 text-center">Historia Wydatków</h2>
+            <table class="table table-striped mt-3 shadow-sm">
+                <thead>
+                    <tr>
+                        <th>Opis</th>
+                        <th>Kwota (PLN)</th>
+                        <th>Data</th>
+                        <th>Kategoria</th>
+                    </tr>
+                </thead>
+                <div id="summary">
+                    <h3>Podsumowanie wydatków: <span id="total-amount">0.00 PLN</span></h3>
+                </div>
+                <tbody id="expense-history">
+                    <tr>
+                        
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

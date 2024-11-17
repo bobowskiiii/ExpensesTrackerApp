@@ -1,0 +1,1722 @@
+{
+  "Version": 1,
+  "Hash": "noM9WUuXfv2prFtJ0y0PQHmCc0nkc1chyvUUuDqHFn4=",
+  "Source": "ExpenseTrackerAPI",
+  "BasePath": "_content/ExpenseTrackerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExpenseTrackerAPI\\wwwroot",
+      "Source": "ExpenseTrackerAPI",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gck6pc00f2-mnsw8zeb0m.gz",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "script#[.{fingerprint=mnsw8zeb0m}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3d274useks",
+      "Integrity": "SfxzSWUegUK8vybYdvFANNoCLVUz/ekhEgy3feQ9dHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gvht2trnkt-k2a7xhheek.gz",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "package-lock#[.{fingerprint=k2a7xhheek}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\package-lock.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g7p7rn3lfl",
+      "Integrity": "pF1GflJp4pPrMWQQO6RSUjHY+yhbqJX0YwqlL388by4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\package-lock.json"
+    },
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\pqhl125468-70vj5aoku4.gz",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "page2#[.{fingerprint=70vj5aoku4}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\page2.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "s315hmwn3r",
+      "Integrity": "2B0KlxVtnNlS+O1FXVpRmzxlRfeBRCG8CfJUtuT43mc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\page2.html"
+    },
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\t4p7ukbjkc-hu61ujqobg.gz",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "css/style#[.{fingerprint=hu61ujqobg}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "71hgyugen9",
+      "Integrity": "xSsKh6wtOgHy9wEfFJGMBYz6flAzHJDALsFQ8N/nY40=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\ztfy5g01dw-zmujujh34m.gz",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "index#[.{fingerprint=zmujujh34m}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "o7wq2l6wlx",
+      "Integrity": "bMRORsaqKZnBEa5BpeiaDzWOo4jQIyKFrWNog/y1+GE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\css\\style.css",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hu61ujqobg",
+      "Integrity": "6YJkfwD9wsJ2PClE00t8Q48+Ld15aT2SKS3n+5TcRac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\index.html",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zmujujh34m",
+      "Integrity": "JQRAzfycusq9KtYd2KLcT4v3Fp8kr/g+0ZntdgiuCUA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\package-lock.json",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "package-lock#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k2a7xhheek",
+      "Integrity": "RJzyr+wsy2rRqxF1fInu2WL0VuEm39N6tRenMm1A8xo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\package-lock.json"
+    },
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\page2.html",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "page2#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70vj5aoku4",
+      "Integrity": "tzANET49XiMfkFE3Fg5FSVw4SA/qYaQtaU0RaBmgPmc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\page2.html"
+    },
+    {
+      "Identity": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\script.js",
+      "SourceId": "ExpenseTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/ExpenseTrackerAPI",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mnsw8zeb0m",
+      "Integrity": "Em1QYcDQyThOEX81znJXNG/eI6Ws1jgjSI8GRHNE3pU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\t4p7ukbjkc-hu61ujqobg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001831501832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xSsKh6wtOgHy9wEfFJGMBYz6flAzHJDALsFQ8N/nY40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 11:00:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6YJkfwD9wsJ2PClE00t8Q48+Ld15aT2SKS3n+5TcRac=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6YJkfwD9wsJ2PClE00t8Q48+Ld15aT2SKS3n+5TcRac="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6YJkfwD9wsJ2PClE00t8Q48+Ld15aT2SKS3n+5TcRac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 11:00:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6YJkfwD9wsJ2PClE00t8Q48+Ld15aT2SKS3n+5TcRac="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\t4p7ukbjkc-hu61ujqobg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xSsKh6wtOgHy9wEfFJGMBYz6flAzHJDALsFQ8N/nY40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 11:00:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xSsKh6wtOgHy9wEfFJGMBYz6flAzHJDALsFQ8N/nY40="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.hu61ujqobg.css",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\t4p7ukbjkc-hu61ujqobg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001831501832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xSsKh6wtOgHy9wEfFJGMBYz6flAzHJDALsFQ8N/nY40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 11:00:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6YJkfwD9wsJ2PClE00t8Q48+Ld15aT2SKS3n+5TcRac=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hu61ujqobg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6YJkfwD9wsJ2PClE00t8Q48+Ld15aT2SKS3n+5TcRac="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.hu61ujqobg.css",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6YJkfwD9wsJ2PClE00t8Q48+Ld15aT2SKS3n+5TcRac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 11:00:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hu61ujqobg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6YJkfwD9wsJ2PClE00t8Q48+Ld15aT2SKS3n+5TcRac="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.hu61ujqobg.css.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\t4p7ukbjkc-hu61ujqobg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xSsKh6wtOgHy9wEfFJGMBYz6flAzHJDALsFQ8N/nY40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 11:00:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hu61ujqobg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xSsKh6wtOgHy9wEfFJGMBYz6flAzHJDALsFQ8N/nY40="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\ztfy5g01dw-zmujujh34m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000820344545"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1218"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bMRORsaqKZnBEa5BpeiaDzWOo4jQIyKFrWNog/y1+GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 10:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JQRAzfycusq9KtYd2KLcT4v3Fp8kr/g+0ZntdgiuCUA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQRAzfycusq9KtYd2KLcT4v3Fp8kr/g+0ZntdgiuCUA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JQRAzfycusq9KtYd2KLcT4v3Fp8kr/g+0ZntdgiuCUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 10:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQRAzfycusq9KtYd2KLcT4v3Fp8kr/g+0ZntdgiuCUA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\ztfy5g01dw-zmujujh34m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bMRORsaqKZnBEa5BpeiaDzWOo4jQIyKFrWNog/y1+GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 10:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bMRORsaqKZnBEa5BpeiaDzWOo4jQIyKFrWNog/y1+GE="
+        }
+      ]
+    },
+    {
+      "Route": "index.zmujujh34m.html",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\ztfy5g01dw-zmujujh34m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000820344545"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1218"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bMRORsaqKZnBEa5BpeiaDzWOo4jQIyKFrWNog/y1+GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 10:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JQRAzfycusq9KtYd2KLcT4v3Fp8kr/g+0ZntdgiuCUA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zmujujh34m"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQRAzfycusq9KtYd2KLcT4v3Fp8kr/g+0ZntdgiuCUA="
+        }
+      ]
+    },
+    {
+      "Route": "index.zmujujh34m.html",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JQRAzfycusq9KtYd2KLcT4v3Fp8kr/g+0ZntdgiuCUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 10:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zmujujh34m"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQRAzfycusq9KtYd2KLcT4v3Fp8kr/g+0ZntdgiuCUA="
+        }
+      ]
+    },
+    {
+      "Route": "index.zmujujh34m.html.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\ztfy5g01dw-zmujujh34m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bMRORsaqKZnBEa5BpeiaDzWOo4jQIyKFrWNog/y1+GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 10:58:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zmujujh34m"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bMRORsaqKZnBEa5BpeiaDzWOo4jQIyKFrWNog/y1+GE="
+        }
+      ]
+    },
+    {
+      "Route": "package-lock.json",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gvht2trnkt-k2a7xhheek.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001897533207"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "526"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pF1GflJp4pPrMWQQO6RSUjHY+yhbqJX0YwqlL388by4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Nov 2024 10:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RJzyr+wsy2rRqxF1fInu2WL0VuEm39N6tRenMm1A8xo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RJzyr+wsy2rRqxF1fInu2WL0VuEm39N6tRenMm1A8xo="
+        }
+      ]
+    },
+    {
+      "Route": "package-lock.json",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\package-lock.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RJzyr+wsy2rRqxF1fInu2WL0VuEm39N6tRenMm1A8xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Nov 2024 10:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RJzyr+wsy2rRqxF1fInu2WL0VuEm39N6tRenMm1A8xo="
+        }
+      ]
+    },
+    {
+      "Route": "package-lock.json.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gvht2trnkt-k2a7xhheek.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pF1GflJp4pPrMWQQO6RSUjHY+yhbqJX0YwqlL388by4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Nov 2024 10:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pF1GflJp4pPrMWQQO6RSUjHY+yhbqJX0YwqlL388by4="
+        }
+      ]
+    },
+    {
+      "Route": "package-lock.k2a7xhheek.json",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gvht2trnkt-k2a7xhheek.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001897533207"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "526"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pF1GflJp4pPrMWQQO6RSUjHY+yhbqJX0YwqlL388by4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Nov 2024 10:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RJzyr+wsy2rRqxF1fInu2WL0VuEm39N6tRenMm1A8xo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k2a7xhheek"
+        },
+        {
+          "Name": "label",
+          "Value": "package-lock.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RJzyr+wsy2rRqxF1fInu2WL0VuEm39N6tRenMm1A8xo="
+        }
+      ]
+    },
+    {
+      "Route": "package-lock.k2a7xhheek.json",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\package-lock.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RJzyr+wsy2rRqxF1fInu2WL0VuEm39N6tRenMm1A8xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Nov 2024 10:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k2a7xhheek"
+        },
+        {
+          "Name": "label",
+          "Value": "package-lock.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RJzyr+wsy2rRqxF1fInu2WL0VuEm39N6tRenMm1A8xo="
+        }
+      ]
+    },
+    {
+      "Route": "package-lock.k2a7xhheek.json.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gvht2trnkt-k2a7xhheek.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pF1GflJp4pPrMWQQO6RSUjHY+yhbqJX0YwqlL388by4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Nov 2024 10:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k2a7xhheek"
+        },
+        {
+          "Name": "label",
+          "Value": "package-lock.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pF1GflJp4pPrMWQQO6RSUjHY+yhbqJX0YwqlL388by4="
+        }
+      ]
+    },
+    {
+      "Route": "page2.70vj5aoku4.html",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\pqhl125468-70vj5aoku4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001620745543"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2B0KlxVtnNlS+O1FXVpRmzxlRfeBRCG8CfJUtuT43mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 10:29:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tzANET49XiMfkFE3Fg5FSVw4SA/qYaQtaU0RaBmgPmc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70vj5aoku4"
+        },
+        {
+          "Name": "label",
+          "Value": "page2.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzANET49XiMfkFE3Fg5FSVw4SA/qYaQtaU0RaBmgPmc="
+        }
+      ]
+    },
+    {
+      "Route": "page2.70vj5aoku4.html",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\page2.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzANET49XiMfkFE3Fg5FSVw4SA/qYaQtaU0RaBmgPmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 10:29:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70vj5aoku4"
+        },
+        {
+          "Name": "label",
+          "Value": "page2.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzANET49XiMfkFE3Fg5FSVw4SA/qYaQtaU0RaBmgPmc="
+        }
+      ]
+    },
+    {
+      "Route": "page2.70vj5aoku4.html.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\pqhl125468-70vj5aoku4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2B0KlxVtnNlS+O1FXVpRmzxlRfeBRCG8CfJUtuT43mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 10:29:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70vj5aoku4"
+        },
+        {
+          "Name": "label",
+          "Value": "page2.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2B0KlxVtnNlS+O1FXVpRmzxlRfeBRCG8CfJUtuT43mc="
+        }
+      ]
+    },
+    {
+      "Route": "page2.html",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\pqhl125468-70vj5aoku4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001620745543"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2B0KlxVtnNlS+O1FXVpRmzxlRfeBRCG8CfJUtuT43mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 10:29:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tzANET49XiMfkFE3Fg5FSVw4SA/qYaQtaU0RaBmgPmc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzANET49XiMfkFE3Fg5FSVw4SA/qYaQtaU0RaBmgPmc="
+        }
+      ]
+    },
+    {
+      "Route": "page2.html",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\page2.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzANET49XiMfkFE3Fg5FSVw4SA/qYaQtaU0RaBmgPmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 10:29:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzANET49XiMfkFE3Fg5FSVw4SA/qYaQtaU0RaBmgPmc="
+        }
+      ]
+    },
+    {
+      "Route": "page2.html.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\pqhl125468-70vj5aoku4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2B0KlxVtnNlS+O1FXVpRmzxlRfeBRCG8CfJUtuT43mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 10:29:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2B0KlxVtnNlS+O1FXVpRmzxlRfeBRCG8CfJUtuT43mc="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gck6pc00f2-mnsw8zeb0m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000973709834"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1026"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SfxzSWUegUK8vybYdvFANNoCLVUz/ekhEgy3feQ9dHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Em1QYcDQyThOEX81znJXNG/eI6Ws1jgjSI8GRHNE3pU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em1QYcDQyThOEX81znJXNG/eI6Ws1jgjSI8GRHNE3pU="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em1QYcDQyThOEX81znJXNG/eI6Ws1jgjSI8GRHNE3pU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em1QYcDQyThOEX81znJXNG/eI6Ws1jgjSI8GRHNE3pU="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gck6pc00f2-mnsw8zeb0m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SfxzSWUegUK8vybYdvFANNoCLVUz/ekhEgy3feQ9dHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SfxzSWUegUK8vybYdvFANNoCLVUz/ekhEgy3feQ9dHA="
+        }
+      ]
+    },
+    {
+      "Route": "script.mnsw8zeb0m.js",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gck6pc00f2-mnsw8zeb0m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000973709834"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1026"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SfxzSWUegUK8vybYdvFANNoCLVUz/ekhEgy3feQ9dHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Em1QYcDQyThOEX81znJXNG/eI6Ws1jgjSI8GRHNE3pU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mnsw8zeb0m"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em1QYcDQyThOEX81znJXNG/eI6Ws1jgjSI8GRHNE3pU="
+        }
+      ]
+    },
+    {
+      "Route": "script.mnsw8zeb0m.js",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Em1QYcDQyThOEX81znJXNG/eI6Ws1jgjSI8GRHNE3pU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mnsw8zeb0m"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Em1QYcDQyThOEX81znJXNG/eI6Ws1jgjSI8GRHNE3pU="
+        }
+      ]
+    },
+    {
+      "Route": "script.mnsw8zeb0m.js.gz",
+      "AssetFile": "C:\\Users\\sbobo\\Desktop\\Job\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\Debug\\net9.0\\compressed\\gck6pc00f2-mnsw8zeb0m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SfxzSWUegUK8vybYdvFANNoCLVUz/ekhEgy3feQ9dHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mnsw8zeb0m"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SfxzSWUegUK8vybYdvFANNoCLVUz/ekhEgy3feQ9dHA="
+        }
+      ]
+    }
+  ]
+}
